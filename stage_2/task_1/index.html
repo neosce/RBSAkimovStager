@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="main.css"/>
+    <title>Корзина/Склад</title>
+    <script src="container.js"></script>
+    <script src="warehouse.js"></script>
+    <script src="trash.js"></script>
+    <script src="product.js"></script>
+    <script src="main.js"></script>
+</head>
+
+<body>
+<!-- данные -->
+<div class="layer1">
+    <div class="row">
+        <div class="container">
+            <!-- Заголовок таблицы Trash -->
+            <div class="container_name">Корзина</div>
+            <div class="row">
+                <div class="item-name">Имя</div>
+                <div class="item-count">Количество</div>
+                <div class="item-price">Цена</div>
+                <div class="item-action"></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div id="trash" class="container"></div>
+    </div>
+    <div>
+        Общая стоимость:
+        <input
+                id="countPrice"
+                class="count_price"
+                type="text"
+                value="0"
+                readonly
+        />
+    </div>
+</div>
+
+<div class="layer2">
+    <div class="row">
+        <div class="container">
+            <!-- Заголовок таблицы Storage -->
+            <div class="container_name">Склад</div>
+            <div class="row">
+                <div class="item-name">Имя</div>
+                <div class="item-count">Количество</div>
+                <div class="item-price">Цена</div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div id="warehouse" class="container"></div>
+    </div>
+</div>
+
+</body>
+</html>

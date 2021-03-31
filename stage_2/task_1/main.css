@@ -1,0 +1,63 @@
+.item {
+    cursor: pointer;
+}
+
+.item-name {
+    width: 150px;
+}
+
+.item-count {
+    text-align: center;
+    width: 100px;
+}
+
+.item-price {
+    text-align: center;
+    width: 100px;
+}
+
+.item-action {
+    text-align: center;
+    width: 55px;
+}
+
+.item-btn {
+    text-align: center;
+    margin-right: 3px;
+    border: 1px solid steelblue;
+    width: 25px;
+}
+
+.container {
+    display: inline-block;
+}
+
+.row {
+    margin-bottom: 5px;
+    display: flex;
+}
+
+.layer1 {
+    float: left;
+    margin-right: 15px;
+}
+
+.layer2 {
+    float: left;
+}
+
+.btn {
+    margin-left: 10px;
+}
+
+.count_price {
+    margin-left: 10px;
+    text-align: right;
+    border-style: none;
+    width: 50px;
+}
+
+.container_name {
+    text-align: center;
+    background-color: cornflowerblue;
+}

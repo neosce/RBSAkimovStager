@@ -1,0 +1,42 @@
+@import "frameAreaWindow.scss";
+
+.main_window {
+  /*background: linear-gradient(-45deg, #132d4e, #133153);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;*/
+  background: white;
+  width: 101% !important;
+  height: 101% !important;
+  top: -2px !important;
+  left: -1px !important;
+}
+
+.webix_view {
+  border: none;
+}
+
+.main-window .webix_template {
+  padding: 0;
+}
+
+.webix_template {
+  padding: 0;
+}
+
+.login_frame {
+  border: none;
+  /*border-radius: 30px;*/
+}
+
+/*
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}*/

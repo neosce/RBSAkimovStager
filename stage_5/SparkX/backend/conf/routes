@@ -1,0 +1,58 @@
+# Routes Config
+#
+# This file defines all application routes (Higher priority routes first)
+#
+
+module:testrunner
+# module:jobs
+
+
+GET     /                                        CIndex.Index
+
+GET     /candidate/employee                      CAuth.GetCurrentEmployee
+GET     /candidate/logout                        CAuth.Logout
+GET     /candidate/authorize/check               CAuth.Check
+POST    /candidate/login                         CAuth.Login
+POST    /candidate/registration                  CAuth.Registration
+
+GET     /project/all                             CProject.GetAll
+GET     /project/:id                             CProject.GetByID
+GET     /project/:id/tasks                       CProject.GetTasks
+GET     /project/:id/employees                   CProject.GetEmployees
+POST    /project/:id/employee/attach             CProject.AttachEmployee
+POST    /project/create                          CProject.Create
+PATCH   /project/update                          CProject.Update
+DELETE  /project/:id                             CProject.Delete
+
+GET     /task/all                                CTask.GetAll
+GET     /task/:id                                CTask.GetByID
+POST    /task/create                             CTask.Create
+PATCH   /task/update                             CTask.Update
+DELETE  /task/:id                                CTask.Delete
+
+GET     /employee/all                            CEmployee.GetAll
+GET     /employee/:id                            CEmployee.GetByID
+GET     /employee/:id/tasks                      CEmployee.GetTasks
+GET     /employee/:id/projects                   CEmployee.GetProjects
+GET     /employee/:id/projects/teamlead          CEmployee.GetTeamLeadProjects
+POST    /employee/create                         CEmployee.Create
+PATCH   /employee/update                         CEmployee.Update
+DELETE  /employee/:id                            CEmployee.Delete
+
+GET     /401                                     CError.Unauthorized
+
+# Ignore favicon requests
+GET     /favicon.ico                            404
+
+# Map static resources from the /app/public folder to the /public path
+GET     /public/*filepath                       Static.Serve("public")
+
+# Catch all, this will route any request into the controller path
+#
+#                    **** WARNING ****
+# Enabling this exposes any controller and function to the web.
+# ** This is a serious security issue if used online **
+#
+# For rapid development uncomment the following to add new controller.action endpoints
+# without having to add them to the routes table.
+# *       /:controller/:action                    :controller.:action

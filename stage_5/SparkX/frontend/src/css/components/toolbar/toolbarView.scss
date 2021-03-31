@@ -1,0 +1,17 @@
+.mainphoto {
+  border-radius: 30px;
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+}
+
+.mainphoto:hover {
+  opacity: 0.8;
+}
+
+.logo{
+  background-image:url("../img/logo.png");
+  background-size: cover;
+  width: 10%;
+  height: 10%;
+}

@@ -1,0 +1,45 @@
+FAIL create directory: ./res/
+Create directory: ./res/
+Read file: ./url.txt
+Get url in file: ./url.txt
+Get http StatusCode: È
+Curl write: res/https:medium.comrungoworking-with-files-and-file-system-a-low-level-introduction-825ea3bac5f9.html
+Create file: res/https:medium.comrungoworking-with-files-and-file-system-a-low-level-introduction-825ea3bac5f9.html
+Get http StatusCode: È
+Curl write: res/https:google.com.html
+Create file: res/https:google.com.html
+Get http StatusCode: Ɵ
+Curl write: res/https:metanit.comgotutorial8.2.php.html
+Create file: res/https:metanit.comgotutorial8.2.php.html
+Get http StatusCode: Ɵ
+Curl write: res/https:metanit.comgotutorial6.1.php.html
+Create file: res/https:metanit.comgotutorial6.1.php.html
+Get http StatusCode: Ɵ
+Curl write: res/https:metanit.comgotutorial3.1.php.html
+Create file: res/https:metanit.comgotutorial3.1.php.html
+Get http StatusCode: Ɵ
+Curl write: res/https:metanit.comgotutorial3.2.php.html
+Create file: res/https:metanit.comgotutorial3.2.php.html
+2021-02-10 09:35:56.933479196 +0400 +04 m=+0.000318201
+FAIL create directory: ./res/
+Read file: ./url.txt
+Get url in file: ./url.txt
+Get http StatusCode: 200 OK
+Curl write: res/https:medium.comrungoworking-with-files-and-file-system-a-low-level-introduction-825ea3bac5f9.html
+Create file: res/https:medium.comrungoworking-with-files-and-file-system-a-low-level-introduction-825ea3bac5f9.html
+Get http StatusCode: 200 OK
+Curl write: res/https:google.com.html
+Create file: res/https:google.com.html
+Get http StatusCode: 415 Unsupported Media Type
+Curl write: res/https:metanit.comgotutorial8.2.php.html
+Create file: res/https:metanit.comgotutorial8.2.php.html
+Get http StatusCode: 415 Unsupported Media Type
+Curl write: res/https:metanit.comgotutorial6.1.php.html
+Create file: res/https:metanit.comgotutorial6.1.php.html
+Get http StatusCode: 415 Unsupported Media Type
+Curl write: res/https:metanit.comgotutorial3.1.php.html
+Create file: res/https:metanit.comgotutorial3.1.php.html
+Get http StatusCode: 415 Unsupported Media Type
+Curl write: res/https:metanit.comgotutorial3.2.php.html
+Create file: res/https:metanit.comgotutorial3.2.php.html
+4.035237307s

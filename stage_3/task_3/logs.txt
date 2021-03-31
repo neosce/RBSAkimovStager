@@ -1,0 +1,104 @@
+2021/02/10 15:57:38 -------NEW LOG-------
+2021/02/10 15:57:38 START:
+2021/02/10 15:57:38 2021-02-10 15:57:38
+2021/02/10 15:57:38 Create directory: ./res/
+2021/02/10 15:57:38 Read file: ./url.txt
+2021/02/10 15:57:38 Get url in file: ./url.txt
+2021/02/10 15:57:39 Get http StatusCode: 200 OK
+2021/02/10 15:57:39 Content length: -1
+2021/02/10 15:57:39 Create file: ./url.txt
+2021/02/10 15:57:40 Get http StatusCode: 200 OK
+2021/02/10 15:57:40 Content length: -1
+2021/02/10 15:57:40 Create file: ./url.txt
+2021/02/10 15:57:40 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 15:57:40 Content length: 312011
+2021/02/10 15:57:40 Create file: ./url.txt
+2021/02/10 15:57:40 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 15:57:40 Content length: 312011
+2021/02/10 15:57:41 Create file: ./url.txt
+2021/02/10 15:57:41 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 15:57:41 Content length: 312011
+2021/02/10 15:57:41 Create file: ./url.txt
+2021/02/10 15:57:41 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 15:57:41 Content length: 312011
+2021/02/10 15:57:42 Create file: ./url.txt
+2021/02/10 15:57:42   END: 2021-02-10 15:57:42 ElapsedTime in seconds: 3.776278726s
+2021/02/10 15:57:42 3.776278726s
+2021/02/10 16:00:54 -------NEW LOG-------
+2021/02/10 16:00:54 START:
+2021/02/10 16:00:54 2021-02-10 16:00:54
+2021/02/10 16:00:54 Create directory: ./res/
+2021/02/10 16:00:54 Read file: ./url.txt
+2021/02/10 16:00:54 Get url in file: ./url.txt
+2021/02/10 16:00:55 Get http StatusCode: 200 OK
+2021/02/10 16:00:55 Content length: -1
+2021/02/10 16:00:55 Create file: ./url.txt
+2021/02/10 16:00:56 Get http StatusCode: 200 OK
+2021/02/10 16:00:56 Content length: -1
+2021/02/10 16:00:56 Create file: ./url.txt
+2021/02/10 16:00:56 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:00:56 Content length: 312011
+2021/02/10 16:00:56 Create file: ./url.txt
+2021/02/10 16:00:56 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:00:56 Content length: 312011
+2021/02/10 16:00:56 Create file: ./url.txt
+2021/02/10 16:00:56 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:00:56 Content length: 312011
+2021/02/10 16:00:56 Create file: ./url.txt
+2021/02/10 16:00:56 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:00:56 Content length: 312011
+2021/02/10 16:00:56 Create file: ./url.txt
+2021/02/10 16:00:56   END: 2021-02-10 16:00:56 ElapsedTime in seconds: 2.829857766s
+2021/02/10 16:00:56 2.829857766s
+2021/02/10 16:24:22 -------NEW LOG-------
+2021/02/10 16:24:22 START:
+2021/02/10 16:24:22 2021-02-10 16:24:22
+2021/02/10 16:24:22 Create directory: ./res/
+2021/02/10 16:24:22 Read file: ./url.txt
+2021/02/10 16:24:22 Get url in file: ./url.txt
+2021/02/10 16:24:22 Create file: ./url.txt
+2021/02/10 16:24:22 Create file: ./url.txt
+2021/02/10 16:24:22 Create file: ./url.txt
+2021/02/10 16:24:22 Create file: ./url.txt
+2021/02/10 16:24:22 Create file: ./url.txt
+2021/02/10 16:24:22 Create file: ./url.txt
+2021/02/10 16:24:22 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:24:22 Content length: 312011
+2021/02/10 16:24:22 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:24:22 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:24:22 Content length: 312011
+2021/02/10 16:24:22 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:24:22 Content length: 312011
+2021/02/10 16:24:22 Content length: 312011
+2021/02/10 16:24:22 Get http StatusCode: 200 OK
+2021/02/10 16:24:22 Content length: -1
+2021/02/10 16:24:23 Get http StatusCode: 200 OK
+2021/02/10 16:24:23 Content length: -1
+2021/02/10 16:24:23   END: 2021-02-10 16:24:23 ElapsedTime in seconds: 1.425369322s
+2021/02/10 16:24:23 1.425369322s
+2021/02/10 16:32:31 -------NEW LOG-------
+2021/02/10 16:32:31 START:
+2021/02/10 16:32:31 2021-02-10 16:32:31
+2021/02/10 16:32:31 Create directory: ./res/
+2021/02/10 16:32:31 Read file: ./url.txt
+2021/02/10 16:32:31 Get url in file: ./url.txt
+2021/02/10 16:32:32 Get http StatusCode: 200 OK
+2021/02/10 16:32:32 Content length: -1
+2021/02/10 16:32:32 Create file: ./url.txt
+2021/02/10 16:32:33 Get http StatusCode: 200 OK
+2021/02/10 16:32:33 Content length: -1
+2021/02/10 16:32:33 Create file: ./url.txt
+2021/02/10 16:32:33 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:32:33 Content length: 312011
+2021/02/10 16:32:33 Create file: ./url.txt
+2021/02/10 16:32:33 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:32:33 Content length: 312011
+2021/02/10 16:32:33 Create file: ./url.txt
+2021/02/10 16:32:33 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:32:33 Content length: 312011
+2021/02/10 16:32:33 Create file: ./url.txt
+2021/02/10 16:32:33 Get http StatusCode: 415 Unsupported Media Type
+2021/02/10 16:32:33 Content length: 312011
+2021/02/10 16:32:34 Create file: ./url.txt
+2021/02/10 16:32:34   END: 2021-02-10 16:32:34 ElapsedTime in seconds: 2.600574225s
+2021/02/10 16:32:34 2.600574225s

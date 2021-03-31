@@ -1,0 +1,6 @@
+https://medium.com/rungo/working-with-files-and-file-system-a-low-level-introduction-825ea3bac5f9
+https://google.com
+https://metanit.com/go/tutorial/8.2.php
+https://metanit.com/go/tutorial/6.1.php
+https://metanit.com/go/tutorial/3.1.php
+https://metanit.com/go/tutorial/3.2.php

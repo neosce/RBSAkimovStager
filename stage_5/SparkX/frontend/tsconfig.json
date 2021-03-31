@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "strict": true,
+    "noImplicitReturns": true,
+    "strictPropertyInitialization": false,
+    "noImplicitThis": false,
+    "lib": ["es5", "es6", "dom", "es2017"],
+    "target": "es6",
+    "module": "es6",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "types": ["node", "jquery", "webix"],
+    "typeRoots": ["node_modules/@types"],
+    "sourceMap": true,
+    "baseUrl": ".",
+    "paths": {
+      "*": ["node_modules/*"]
+    }
+  }
+}
